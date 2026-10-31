@@ -33,6 +33,8 @@ Suresh Patel    Rs. 12,295   High-Value
 
 ## Run it
 
+The full script: [analyzing_customer_orders_project.py](analyzing_customer_orders_project.py)
+
 ```bash
 python analyzing_customer_orders_project.py
 ```
